@@ -27,5 +27,5 @@ else:
     timer = 0
     while timer < 3:
         time.sleep(1)
-        webbrowser.open("https://youtu.be/2U4E-RXHshc?si=VMqvKCvt3M4fQ-OO")
+        webbrowser.open("https://youtu.be/2U4E-RXHshc?=VMqvKCvt3M4fQ-OO")
         timer = timer + 1
